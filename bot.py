@@ -7,7 +7,7 @@ import asyncio
 from datetime import datetime
 
 
-TOKEN = '1247532899:AAHfcLAjBhxN1Kxb7fHNCT8avVLBiav2Vu0'
+TOKEN = ''
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
